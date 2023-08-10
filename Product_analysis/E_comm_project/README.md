@@ -13,6 +13,6 @@ Within this project, pandas and numpy libraries were utilized to address the giv
 
 Data is presented in the following format:
 
-olist_customers_dataset - Table with unique user identifiers.
-olist_orders_dataset - Order table.
-olist_order_items_dataset - Product items included in orders.
+* olist_customers_dataset - Table with unique user identifiers.
+* olist_orders_dataset - Order table.
+* olist_order_items_dataset - Product items included in orders.
