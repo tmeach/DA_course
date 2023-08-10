@@ -15,7 +15,7 @@ This project focuses on the analysis of an e-learning platform using the pandas 
 
 Data is represented in the following format:
 
-assessments.csv — Table containing information about test assessments. Typically, each subject in a semester includes a series of graded tests followed by a final exam.
-courses.csv — Table listing subjects by semester.
-studentAssessment.csv — Table containing information about student test results. If a student does not submit an assessment, the result is not recorded in the table.
-studentRegistration.csv — Table containing information about the time when a student registered for a course in a semester.
+* assessments.csv — Table containing information about test assessments. Typically, each subject in a semester includes a series of graded tests followed by a final exam.
+* courses.csv — Table listing subjects by semester.
+* studentAssessment.csv — Table containing information about student test results. If a student does not submit an assessment, the result is not recorded in the table.
+* studentRegistration.csv — Table containing information about the time when a student registered for a course in a semester.
